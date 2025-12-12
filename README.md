@@ -45,17 +45,6 @@ I love solving complex problems, writing clean and maintainable code, and crafti
 
 ---
 
-## 🧩 Featured Projects
-
-| Project | Description | Tech Stack | Demo |
-|----------|--------------|-------------|------|
-| 🛒 **E-Commerce App** | Full-featured Amazon-style marketplace with product filters, authentication, and payment integration. | MERN, Redux, Tailwind | [View Demo](#) |
-| 🧾 **Expense Tracker App** | Cross-platform app to manage daily expenses with charts and analytics. | React Native, AsyncStorage | [View Demo](#) |
-| 🧑‍💼 **Portfolio Website** | Personal portfolio built with Next.js and styled-components. | Next.js, Styled-Components | [View Demo](#) |
-| 🗂️ **Admin Dashboard** | Data-driven dashboard for managing analytics and users. | React, Node.js, MongoDB | [View Demo](#) |
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
