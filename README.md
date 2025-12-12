@@ -58,24 +58,6 @@ I love solving complex problems, writing clean and maintainable code, and crafti
 
 ---
 
-## 🌍 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/fanendra-choudhary-313808265" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="mailto:fanendrachoudhary5869@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-  <a href="https://github.com/fanendra5869" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-  <a href="https://fanendra-portfolio.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="40" />
-  </a>
-</p>
-
----
 
 ## 🧠 Currently Exploring
 - ⚡ **Next.js 15** advanced features (Server Actions, RSC)
